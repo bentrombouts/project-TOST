@@ -1,0 +1,4 @@
+SET 1 R1
+ADD
+PUSH 2
+OUT number
